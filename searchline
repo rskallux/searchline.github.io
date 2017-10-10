@@ -1,0 +1,41 @@
+#!/bin/bash
+while true
+do                                                                                                                          
+clear
+echo " =============================== PESQUISA ==================="                                                                                    
+echo "Digite um camando"                                                                                                                                                  
+      read nome                                                                                                                                                          
+curl cheat.sh/$nome                                                                                                                                                    
+
+sleep 2  
+echo " Continuar busca de comandos? (s/n)"
+read CONFIRMA
+case $CONFIRMA in 
+    "n")
+break;
+esac
+done
+clear
+echo " https://terminalclub.github.io/ ..."
+sleep 2
+exit
+ #...
+        # ...
+    
+
+   "s")
+
+
+# ...
+# ...           
+    ;;
+
+    *)
+        echo  "Opção inválida."
+    ;;
+esac		
+	done			
+
+
+
+
