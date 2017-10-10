@@ -5,7 +5,7 @@ searchline script
 <p align="center">
 
 https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi
-[![asciicast](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi)](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi)
+[![asciicast](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi.png)](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi)
 
 <p align="center">
 Install
