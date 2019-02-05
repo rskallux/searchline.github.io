@@ -4,8 +4,7 @@ Pesquise comandos linux
 searchline script 
 <p align="center">
 
-https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi
-[![asciicast](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi.png)](https://asciinema.org/a/WMkJoXQIlhEB0XmsXqpSc5kHi)
+http://showterm.io/89f8cf0f31651b500dbba
 
 <p align="center">
 Install
