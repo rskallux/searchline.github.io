@@ -1,5 +1,6 @@
-COMANDUX
-<img src="https://s26.postimg.org/vbt2o92jd/BL4-_Orb-_Flame-lt-180x180.png"/>
+<br>
+<p align="center">
+   <img src="https://i.giphy.com/w1dT7TOSoVzPy.gif">
 Pesquise comandos linux
 searchline script 
 <p align="center">
