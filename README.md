@@ -3,9 +3,7 @@
 Pesquise comandos linux
 searchline script 
 <p align="center">
-
 http://showterm.io/89f8cf0f31651b500dbba#fast
-
 <p align="center">
 Install
 <p align="center">
